@@ -6,7 +6,7 @@ I’ve officially committed to a 4-month intensive journey to become job-ready i
 * No excuses
 * Just daily consistency
 
-* Tasks
+ --Tasks
 * Day-01(The Environment & Building Block - Python)
    * Swaping numbers
    * Type casting
