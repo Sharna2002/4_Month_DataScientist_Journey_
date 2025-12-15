@@ -2,6 +2,7 @@
 
 word = "DATA"
 
-for c in word:
-    print(c)
+for char in word:
+    print(char)
+
 
