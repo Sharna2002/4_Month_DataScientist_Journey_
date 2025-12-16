@@ -5,11 +5,11 @@ Author: Sharna Rani Paul
 
 Goal: Cracking a job as a ML/AI/Datascientist engineer through structured learning, projects, and interview preparation.
 
-I’ve officially committed to a 4-month intensive journey to become job-ready in Python, Machine Learning & Data Science.
-      * No shortcuts
-      * No excuses
-      * Just daily consistency
-
+I’ve officially committed to a 4-month intensive journey to become job-ready in Python, Machine Learning & Data Science - 
+     - No shortcuts
+     - No excuses
+     - Just daily consistency
+     
 * Overview - 
 * Target Role
     * Software engineer
