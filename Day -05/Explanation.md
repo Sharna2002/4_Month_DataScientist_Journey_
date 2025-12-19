@@ -4,4 +4,5 @@
 
     print(-1 in number_list) <br>
     print(-1 in number_set)<br>
-    For searching -1 in a list use the time complexity of O(N), beacuse internally it follows the loop function to search.In the otherhand set/ dict is searching the value of the the -1, which time complexity is O(1).
+    For searching -1 in a list use the time complexity of O(N), beacuse internally it follows the loop function to searching and search iteratively. In the otherhand set/ dict is searching the value of the key  -1, mainly the hash value of the key. Which time complexity is O(1). So, set is faster than list.
+  
